@@ -54,6 +54,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'csv', '~> 0.0.1'
 gem 'google-api-client', '~> 0.7.1'
-gem 'google-cloud-translate', '~> 2.3'
-gem 'retriable', '2.0'
 gem 'easy_translate'
+gem 'dotenv-rails'
